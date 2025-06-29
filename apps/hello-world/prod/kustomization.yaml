@@ -2,6 +2,4 @@
 
 resources:
   - ../../hello-world
-
-patchesStrategicMerge:
-  - patch.yaml
+  - namespace.yaml

@@ -6,3 +6,4 @@ resources:
   - ../../base/kustomization.yaml
   - namespace.yaml
   - patch.yaml
+namespace: prod

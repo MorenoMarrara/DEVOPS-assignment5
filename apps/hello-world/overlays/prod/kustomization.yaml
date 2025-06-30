@@ -7,3 +7,4 @@ resources:
   - namespace.yaml
   - patch.yaml
 namespace: prod
+timeout: 30s

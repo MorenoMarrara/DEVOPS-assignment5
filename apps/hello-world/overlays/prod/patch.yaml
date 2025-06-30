@@ -11,6 +11,9 @@ spec:
     matchLabels:
       app: nginx-demo
   template:
+    metadata:
+      labels:
+        app: nginx-demo
     spec:
       containers:
         - name: nginx
